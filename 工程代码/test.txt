@@ -1,0 +1,8 @@
+dataset/4zhong/audio/niaojiao/xc99357.wav	0
+dataset/4zhong/audio/niaojiao/xc30390.wav	0
+dataset/4zhong/audio/bianpao/燃放礼花2－YS070511.wav	1
+dataset/4zhong/audio/baozha/baozha (2).wav	2
+dataset/4zhong/audio/baozha/爆-炸1-mcx20070508.wav	2
+dataset/4zhong/audio/baozha/爆-炸类音效 (28).wav	2
+dataset/4zhong/audio/qichemingdi/180156-1-4-0.wav	3
+dataset/4zhong/audio/qichemingdi/72567-1-4-5.wav	3
