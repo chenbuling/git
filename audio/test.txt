@@ -1,0 +1,7 @@
+/data/cx/AudioClassification-Pytorch-master/dataset/4zhong/audio/niaojiao/xc25754.wav
+/data/cx/AudioClassification-Pytorch-master/dataset/4zhong/audio/niaojiao/xc30390.wav
+/data/cx/AudioClassification-Pytorch-master/dataset/4zhong/audio/bianpao/燃放礼花2－YS070511.wav
+/data/cx/AudioClassification-Pytorch-master/dataset/4zhong/audio/baozha/爆-炸1-mcx20070508.wav
+/data/cx/AudioClassification-Pytorch-master/dataset/4zhong/audio/baozha/爆-炸类音效 (28).wav
+/data/cx/AudioClassification-Pytorch-master/dataset/4zhong/audio/qichemingdi/180156-1-4-0.wav
+/data/cx/AudioClassification-Pytorch-master/dataset/4zhong/audio/qichemingdi/72567-1-4-5.wav
